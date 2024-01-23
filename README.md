@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 My name is Elani
 
+I am a Software Dev in training. 🤸‍♂️🏋️‍♀️🤸‍♂️🚴‍♀️🏋️‍♀️
+
+I am transitioning my career from healthcare as a pharmacist to the dynamic world of IT. My plan is to become a fullstack developer and then later transform the healthcare environment with tech.
+
+I don't know much yet, but watch this space...
 <!--
 **ElaniBotha/ElaniBotha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
